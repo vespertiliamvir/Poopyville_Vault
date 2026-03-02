@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Face Cards - Queens (Contractors)",
+    "status": "Todo",
+    "tags": "[casino, poker, contractors, face-cards, priority-1]",
+    "description": "Generate map artwork for all Queen face cards.",
+    "notes": "Must match the exact design/palette style of the Kings we just finished."
+  },
+  {
+    "title": "Face Cards - Jacks (Contractors)",
+    "status": "Todo",
+    "tags": "[casino, poker, contractors, face-cards, priority-1]",
+    "description": "Generate map artwork for all Jack face cards.",
+    "notes": "Final set of face cards to complete the deck."
+  },
+  {
+    "title": "Poker Redstone - Shuffler & Filtration System",
+    "status": "Todo",
+    "tags": "[casino, poker, redstone, 5-points, priority-2]",
+    "description": "Hook up the complex shuffler, dealer, and muck filtration logic.",
+    "notes": "LOGIC: Dispensers/droppers shoot into each other -> hoppers -> autocrafters (count exactly 2 cards) -> barrels. Dealer button deals via vertical pipeline. Muck filter: sucked in, counted for full deck, trash items filtered out. Pre-load next deck in autocrafters while previous deck gets filtered."
+  },
+  {
+    "title": "Plinko - Hook up 7-Segment Display",
+    "status": "Todo",
+    "tags": "[casino, plinko, redstone, 5-points, priority-3]",
+    "description": "Wire the 7-segment display to the Plinko machine to track player states.",
+    "notes": "Needs to cleanly display lives/score."
+  },
+  {
+    "title": "Plinko - Payment & Payout System",
+    "status": "Todo",
+    "tags": "[casino, plinko, redstone, 3-points, priority-3]",
+    "description": "Hook up the item intake payment and the automated payout dispensing.",
+    "notes": "Ensure proper ratios so the house maintains an edge."
+  },
+  {
+    "title": "Dropper Game - Core Mechanics",
+    "status": "Todo",
+    "tags": "[casino, dropper, redstone, priority-4]",
+    "description": "Build the new Dropper game opposite of Plinko.",
+    "notes": "MECHANICS: Drops colored concrete pattern to a rotating hole after a delayed timer. Correct hole = varying prizes (map art, joke items, diamonds)."
+  },
+  {
+    "title": "Dropper Game - 7-Segment Display & Payment",
+    "status": "Todo",
+    "tags": "[casino, dropper, redstone, priority-4]",
+    "description": "Wire the 7-segment display for lives and the payment/payout system.",
+    "notes": "Matches the architecture of the Plinko payment system."
+  },
+  {
+    "title": "Slot Machines - Group 1",
+    "status": "Todo",
+    "tags": "[casino, slots, redstone, priority-5]",
+    "description": "Install and wire up 2 slot machines.",
+    "notes": "Part 1 of the remaining 4 machines."
+  },
+  {
+    "title": "Slot Machines - Group 2",
+    "status": "Todo",
+    "tags": "[casino, slots, redstone, priority-5]",
+    "description": "Install and wire up the final 2 slot machines.",
+    "notes": "Completes the slot machine floor."
+  },
+  {
+    "title": "Casino - Redo Lighting",
+    "status": "Todo",
+    "tags": "[casino, aesthetics, redstone, priority-6]",
+    "description": "Redesign and optimize the casino lights to fix lag issues.",
+    "notes": "Replace lag-heavy redstone loops where possible."
+  },
+  {
+    "title": "Casino - Detailing & Final Aesthetics",
+    "status": "Todo",
+    "tags": "[casino, aesthetics, build, priority-7]",
+    "description": "Final interior detailing for the casino.",
+    "notes": "Make it look like a finished, premium establishment."
+  },
+  {
+    "title": "iPhone - Raise up & Split Displays",
+    "status": "Todo",
+    "tags": "[casino, display, redstone, milestone-blocker, priority-8]",
+    "description": "Raise the entire 22x41 iPhone up and convert it into a dual-display system.",
+    "notes": "CRITICAL: Must be perfectly viewable from BOTH casino floors. Requires completely re-doing the top circuitry. Do NOT attempt to add more storage (too complex, maybe hire contractor later)."
+  },
+  {
+    "title": "iPhone - Finalize Aesthetics",
+    "status": "Todo",
+    "tags": "[casino, display, build, milestone-blocker, priority-9]",
+    "description": "Clean up the exterior and wiring visibility of the dual-display iPhone.",
+    "notes": "Once this and the Casino are done, the server hits the official '1.0 Release' milestone!"
+  },
+  {
+    "title": "Casino - 2nd Chandelier (Tao)",
+    "status": "Todo",
+    "tags": "[casino, build, tao]",
+    "description": "Build the second chandelier in the casino.",
+    "notes": "Assigned to Tao."
+  },
+  {
+    "title": "PvP Arena - Mace Practice Upgrade",
+    "status": "Todo",
+    "tags": "[pvp, redstone, mechanics]",
+    "description": "Fix the villager breeder and add Piglin spawners to the Mace practice area.",
+    "notes": "Current breeder is too slow. Targets get sucked up by minecarts for moving mace practice. Add piglins from a nether portal as alternative targets."
+  },
+  {
+    "title": "PvP Arena - Sumo Ring Polish",
+    "status": "Todo",
+    "tags": "[pvp, build]",
+    "description": "Add official tools/weapons to the Sumo ring quadrant.",
+    "notes": "Provide stone swords or knockback wands for the gimmick fights."
+  },
+  {
+    "title": "Rollback Recovery - Blue Ice Highways",
+    "status": "Todo",
+    "tags": "[infrastructure, rollback, navigation]",
+    "description": "Rebuild the lost Blue Ice highway extensions.",
+    "notes": "Need to reconnect Downtown Poopy Ville (0,0) to: The Guardian Farm, and Rama's Attack on Titan city (-800, -800). (Nether factory connection is fine)."
+  },
+  {
+    "title": "Rollback Recovery - Prismarine Tower & 2nd End Portal",
+    "status": "Todo",
+    "tags": "[build, rollback]",
+    "description": "Rebuild the Prismarine Tower near the Guardian farm and the 2nd Ender portal room.",
+    "notes": "Lost to server lag/rollback."
+  },
+  {
+    "title": "Rollback Recovery - End Portal Village Lake",
+    "status": "Todo",
+    "tags": "[aesthetics, rollback]",
+    "description": "Re-light the water outside the End Portal Village lake.",
+    "notes": "Lost to server lag/rollback."
+  },
+  {
+    "title": "Autobrewing - Coconut Stations",
+    "status": "Todo",
+    "tags": "[infrastructure, redstone, 3-points]",
+    "description": "Hook up the last two Coconut Station autobrewers.",
+    "notes": "LOCATIONS: Next to Big Black Bridge, and next to Jelly House. MECHANICS: Shulker unloader -> Auto-brewer. Holds 1-2k potions. Button for splash, or manual scoop. STRICT RULE: Zero visible redstone, keep it underground."
+  },
+  {
+    "title": "Trading Hall Dome (Optic Dust / User)",
+    "status": "In Progress",
+    "tags": "[city, build, villagers, optic-dust]",
+    "description": "Finish the massive villager trading hall dome behind the iPhone.",
+    "notes": "LAYOUT: Town hall in middle. Blacksmith on left. 2-story library on right. 1-story restaurant on left. 1-story 'other' building on right."
+  },
+  {
+    "title": "Rama - Secret Digging Project",
+    "status": "In Progress",
+    "tags": "[project, rama]",
+    "description": "Rama's classified digging operation.",
+    "notes": "Assigned to Painter 18 (Rama)."
+  },
+  {
+    "title": "Rama - Decorate AOT City Wall",
+    "status": "Todo",
+    "tags": "[build, rama, aot-city]",
+    "description": "Decorate the massive wall around Attack on Titan city (-800, -800).",
+    "notes": "Assigned to Rama."
+  },
+  {
+    "title": "Spawn - Starter Shulker Boxes",
+    "status": "Backlog",
+    "tags": "[spawn, infrastructure]",
+    "description": "Set up starter shulker boxes in the spawn area for new players.",
+    "notes": "Include loadstone compasses as building blocks for tools/navigation."
+  },
+  {
+    "title": "City - Strip Club",
+    "status": "Backlog",
+    "tags": "[city, build, nsfw]",
+    "description": "Build a strip club in the city.",
+    "notes": "May feature explicit map artwork. Be cautious of Xbox Live/Minecraft terms of service."
+  },
+  {
+    "title": "City - Tinderglass Dome Centerpiece",
+    "status": "Backlog",
+    "tags": "[city, aesthetics]",
+    "description": "Decide on and build a centerpiece for the giant Tinderglass Dome.",
+    "notes": "Idea: The Golden Dandelion."
+  },
+  {
+    "title": "Casino - Baccarat Room",
+    "status": "Backlog",
+    "tags": "[casino, build, redstone]",
+    "description": "Potentially add a Baccarat room to the casino.",
+    "notes": "Needs simple redstone design if we proceed."
+  },
+  {
+    "title": "Military - Nuclear Missile Silo",
+    "status": "Backlog",
+    "tags": "[military, build]",
+    "description": "Construct a subterranean nuclear missile silo.",
+    "notes": "Assigned to user."
+  },
+  {
+    "title": "Military - Amphibious Assault Ship",
+    "status": "Backlog",
+    "tags": "[military, build]",
+    "description": "Finish construction of the amphibious assault ship.",
+    "notes": "Low priority, do after 1.0 release."
+  },
+  {
+    "title": "Epic: The Airport",
+    "status": "Backlog",
+    "tags": "[infrastructure, build, epic]",
+    "description": "Construct a massive airport filling out the rest of the peninsula.",
+    "notes": "This is the 'Next Year' Epic once the Casino and 1.0 Release are finalized. Keep scope simpler than the casino."
+  }
+]
