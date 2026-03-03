@@ -11,22 +11,27 @@ tags: [city, build, villagers, optic-dust]
 **Description:**
 Finish the massive villager trading hall dome behind the iPhone.
 
-test
+---
 
-**Technical Notes:**
-LAYOUT: Town hall in middle. Blacksmith on left. 2-story library on right. 1-story restaurant on left. 1-story 'other' building on right.
+### 🏛️ Layout & Architecture
+- **Center:** Park area with an elevator entrance coming up from below.
+- **Town Hall:** Middle building featuring a large clock tower.
+- **Blacksmith:** Left side. Built with spruce, dark oak, deepslate tiles, or blackstone bricks with metal accents. Houses armor and tools (consider splitting armor/tools into two separate buildings).
+- **Library:** Right side. 2-story building, likely birch wood. Houses all librarians.
+- **Additional:** 1-story restaurant (left) and 1-story miscellaneous building (right).
 
-system to deliver golden apples / splash weakness potions should be WATER STREAMS on ice or packed ice or... well.. if we ahve room for that... we miiight need to just slightly lower the floor down to make room by like 1/2 of a block
+### 📖 Lore & Atmosphere
+- **Theme:** A segregated, oppressive society where Iron Golems are treated as second-class citizens to Villagers (Jim Crow style).
+- **Podiums:** - A grand, high podium on the left for the Villager King (and Wei).
+  - A smaller, lower podium on the right for the Iron Golem "politician".
 
-
-Some notes from a conversation with Wei.
-
-- We're thinking about having iron golems be like oppressed in the dome, like low-key oppressed, like Jim Crow style.
-- I have two podiums: one for a villager king to come out from the town hall and Wei on the left.
-- We're going to have a clock in the middle of the big clock tower on the town hall and another podium on the right that's going to be a little bit lower for the iron golem to come out from. It should be like the politician guy.
-- Blacksmith is going to have probably all the armor, probably all the tools. We might split up the armor and tools into different buildings.
-- The library is going to have all the librarians. It's going to be two stories, probably with birch wood or something.
-- Blacksmith is probably like spruce wood or dark oak or maybe deep slate tiles or maybe blackstone bricks or something with some metal pieces.
-- I think about putting a park in the middle or something, some kind of elevator to come up from
+### ⚙️ Technical Notes & Redstone
+- **Spawn-Proofing (Zombie Horse Bug Fix):** - Rip up the top layer of grass on the pathways and replace them with **bottom half-slabs** (using the Blacksmith's block palette). 
+  - This stops the bugged 1.21.11 Zombie Horses from spawning AND instantly gives us the 2-block vertical clearance needed for the delivery pipes underneath.
+- **Apple & Potion Delivery Pipe (Hybrid System):**
+  - **Inner Base (Water Streams):** Run water streams on the lower stone slab layer. To avoid needing a full ice floor, place exactly **one block of Packed Ice every 8 blocks** (where the water resets) to maintain item momentum.
+  - **Outer Edge (Minecart Handoff):** The water streams will drop the items onto a Hopper Minecart track on the outer perimeter.
+  - **Performance & Bug Prevention:** - Map the chunk borders! The minecart track MUST sit entirely within a **single chunk** to prevent Bedrock's asynchronous chunk-unloading bugs from breaking the cart.
+    - Hook the minecart to a detector rail so it only runs when an item is actually dispensed. This is vastly more lag-efficient than using 20-30 hoppers.
 
 ![[Pasted image 20260302162814.png]]
