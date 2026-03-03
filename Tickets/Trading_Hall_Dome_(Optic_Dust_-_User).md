@@ -54,6 +54,8 @@ Finish the massive villager trading hall dome behind the iPhone.
 - Loyalty III
 
 
+so far the crossed out ones are deisnated in zones where the zombie architecture works.. the rest we w ill need to make more room for i think by raising the second floor higher
+
 ### 🏛️ Layout & Architecture
 - **Center:** Park area with an elevator entrance coming up from below.
 - **Town Hall:** Middle building featuring a large clock tower.
