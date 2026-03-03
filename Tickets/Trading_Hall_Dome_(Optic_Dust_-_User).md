@@ -13,6 +13,47 @@ Finish the massive villager trading hall dome behind the iPhone.
 
 ---
 
+- Mending I
+    
+- Unbreaking III
+    
+- Efficiency V
+    
+- Fortune III
+    
+- Silk Touch I
+    
+- ~~Protection IV~~
+    
+- ~~Feather Falling IV~~
+    
+- ~~Respiration III~~
+    
+- ~~Aqua Affinity I~~
+    
+- ~~Depth Strider III~~
+    
+- ~~Sharpness V~~
+    
+- ~~Looting III~~
+    
+- ~~Fire Aspect II~~
+    
+- ~~Density V~~
+    
+- Power V
+    
+- Infinity I
+    
+- Impaling V
+    
+- Channeling I
+    
+- Riptide III
+    
+- Loyalty III
+
+
 ### 🏛️ Layout & Architecture
 - **Center:** Park area with an elevator entrance coming up from below.
 - **Town Hall:** Middle building featuring a large clock tower.
