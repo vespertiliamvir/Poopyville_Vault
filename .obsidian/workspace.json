@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "3d4e586dd1576df4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae835ea3a8a22443",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c7ac561544bf03d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tickets/Autobrewing_-_Coconut_Stations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Autobrewing_-_Coconut_Stations"
+            }
+          },
+          {
+            "id": "80701b00bd4a4971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tickets/Autobrewing_-_Coconut_Stations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Autobrewing_-_Coconut_Stations"
+            }
+          },
+          {
+            "id": "72b25778c5941846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_Dashboard"
+            }
+          },
+          {
+            "id": "5032487eca1b5a6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tickets/Trading_Hall_Dome_(Optic_Dust_-_User).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trading_Hall_Dome_(Optic_Dust_-_User)"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db8b5a76a3abd1a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "202c4a6c8767c319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7ebf852293ed506",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b795adc5ae702841",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cdef801b2cd854e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78add08861645286",
+    "type": "split",
+    "children": [
+      {
+        "id": "30e417efb63e596c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "014f02be309f1f88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "2dcd0a5d3a288c60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "7c31897332f3ad88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a3a8f211d6ffee4d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7d316f105130b91c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "5bc6a155f9fe3eef",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "5032487eca1b5a6a",
+  "lastOpenFiles": [
+    "00_Dashboard.md",
+    "Tickets/Trading_Hall_Dome_(Optic_Dust_-_User).md",
+    "Tickets/Rollback_Recovery_-_Prismarine_Tower_&_2nd_End_Portal.md",
+    "Welcome.md",
+    "assets/Pasted image 20260302162814.png",
+    "assets",
+    "Tickets/Untitled.md",
+    "Templates/New_Ticket.md",
+    "Templates/Untitled.md",
+    "Templates",
+    "Tickets/Lava_Room.md",
+    "Tickets/Face_Cards_-_Queens_(Contractors).md",
+    "Tickets/Casino_-_2nd_Chandelier_(Tao).md",
+    "Untitled 1.md",
+    "Tickets/Autobrewing_-_Coconut_Stations.md",
+    "Tickets/iPhone_-_Raise_up_&_Split_Displays.md",
+    "Tickets/Plinko_-_Payment_&_Payout_System.md",
+    "Untitled Kanban.md",
+    "timeline_updater.py",
+    "Excalidraw/Drawing 2026-03-01 22.58.07.excalidraw.md",
+    "Excalidraw",
+    "Tickets/Dropper_Game_-_Core_Mechanics.md",
+    "Tickets/Spawn_-_Starter_Shulker_Boxes.md",
+    "Tickets/Slot_Machines_-_Group_2.md",
+    "Tickets/Slot_Machines_-_Group_1.md",
+    "Tickets/Rollback_Recovery_-_Blue_Ice_Highways.md",
+    "Tickets/Rollback_Recovery_-_End_Portal_Village_Lake.md",
+    "Tickets/Rama_-_Secret_Digging_Project.md",
+    "Tickets/Rama_-_Decorate_AOT_City_Wall.md",
+    "Tickets/PvP_Arena_-_Sumo_Ring_Polish.md",
+    "Tickets/Epic",
+    "Tickets"
+  ]
+}

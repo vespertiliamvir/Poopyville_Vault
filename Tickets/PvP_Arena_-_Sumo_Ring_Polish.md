@@ -1,0 +1,15 @@
+---
+assignee: David
+start: 2026-12-18
+due: 2027-01-01
+status: Todo
+tags: [pvp, build]
+---
+
+# PvP Arena - Sumo Ring Polish
+
+**Description:**
+Add official tools/weapons to the Sumo ring quadrant.
+
+**Technical Notes:**
+Provide stone swords or knockback wands for the gimmick fights.
