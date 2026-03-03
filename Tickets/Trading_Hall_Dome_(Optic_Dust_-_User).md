@@ -26,7 +26,6 @@ Finish the massive villager trading hall dome behind the iPhone.
   - A smaller, lower podium on the right for the Iron Golem "politician".
 
 ### ⚙️ Technical Notes & Redstone
-- **Spawn-Proofing (Zombie Horse Bug Fix):** - Rip up the top layer of grass on the pathways and replace them with **bottom half-slabs** (using the Blacksmith's block palette). 
   - This stops the bugged 1.21.11 Zombie Horses from spawning AND instantly gives us the 2-block vertical clearance needed for the delivery pipes underneath.
 - **Apple & Potion Delivery Pipe (Hybrid System):**
   - **Inner Base (Water Streams):** Run water streams on the lower stone slab layer. To avoid needing a full ice floor, place exactly **one block of Packed Ice every 8 blocks** (where the water resets) to maintain item momentum.
