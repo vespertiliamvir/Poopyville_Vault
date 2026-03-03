@@ -16,7 +16,7 @@ Finish the massive villager trading hall dome behind the iPhone.
 ### 🏛️ Layout & Architecture
 - **Center:** Park area with an elevator entrance coming up from below.
 - **Town Hall:** Middle building featuring a large clock tower.
-- **Blacksmith:** Left side. Built with spruce, dark oak, deepslate tiles, or blackstone bricks with metal accents. Houses armor and tools (consider splitting armor/tools into two separate buildings).
+- **Blacksmith:** Left side. Built with spruce, dark oak, deepslate tiles, or blackstone bricks with metal accents. Houses armor and tools (consider splitting armor/tools into two separate buildings). 
 - **Library:** Right side. 2-story building, likely birch wood. Houses all librarians.
 - **Additional:** 1-story restaurant (left) and 1-story miscellaneous building (right).
 
