@@ -13,15 +13,15 @@ Finish the massive villager trading hall dome behind the iPhone.
 
 ---
 
-- Mending I
+- ~~Mending I~~
     
-- Unbreaking III
+- ~~Unbreaking III~~
     
-- Efficiency V
+- ~~Efficiency V~~
     
-- Fortune III
+- ~~Fortune III~~
     
-- Silk Touch I
+- ~~Silk Touch I~~
     
 - ~~Protection IV~~
     
@@ -41,17 +41,17 @@ Finish the massive villager trading hall dome behind the iPhone.
     
 - ~~Density V~~
     
-- Power V
+- ~~Power V~~
     
-- Infinity I
+- ~~Infinity I~~
     
-- Impaling V
+- ~~Impaling V~~
     
-- Channeling I
+- ~~Channeling I~~
     
-- Riptide III
+- ~~Riptide III~~
     
-- Loyalty III
+- ~~Loyalty III~~
 
 
 so far the crossed out ones are deisnated in zones where the zombie architecture works.. the rest we w ill need to make more room for i think by raising the second floor higher
