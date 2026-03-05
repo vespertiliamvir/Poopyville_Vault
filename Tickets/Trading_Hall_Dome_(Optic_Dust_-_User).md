@@ -11,47 +11,50 @@ tags: [city, build, villagers, optic-dust]
 **Description:**
 Finish the massive villager trading hall dome behind the iPhone.
 
+
+we have 22 book spots
 ---
 
-- ~~Mending I~~
+- Mending I ✔️ ✔️
     
-- ~~Unbreaking III~~
+- Unbreaking III ✔️
     
-- ~~Efficiency V~~
+- Efficiency V  ✔️
     
-- ~~Fortune III~~
+- Fortune III ✔️
     
-- ~~Silk Touch I~~
+- Silk Touch I ✔️
     
-- ~~Protection IV~~
+- Protection IV ~✔️~
     
-- ~~Feather Falling IV~~
+- Feather Falling IV ✔️
     
-- ~~Respiration III~~
+- Respiration III ~✔️~
     
-- ~~Aqua Affinity I~~
+- Aqua Affinity I ~✔️~
     
-- ~~Depth Strider III~~
+- Depth Strider III ✔️
     
-- ~~Sharpness V~~
+- Sharpness V✔️
     
-- ~~Looting III~~
+- Looting III ✔️
     
-- ~~Fire Aspect II~~
+- Fire Aspect II ✔️
     
-- ~~Density V~~
+- Density V ✔️
     
-- ~~Power V~~
+- Power V ✔️
     
-- ~~Infinity I~~
+- Infinity I ✔️
     
-- ~~Impaling V~~
+- Impaling V ✔️
     
-- ~~Channeling I~~
+- Channeling I ✔️
     
-- ~~Riptide III~~
+- Riptide III ✔️
     
-- ~~Loyalty III~~
+- Loyalty III ✔️
+- Lunge III ✔️
 
 
 so far the crossed out ones are deisnated in zones where the zombie architecture works.. the rest we w ill need to make more room for i think by raising the second floor higher
