@@ -68,9 +68,7 @@ we have 22 book spots
 - **Efficiency V**
     
 - **Fire Aspect II**
-    
-- **Power V** _(You have a standalone one listed here, though you already have one safely paired with Channeling in the library!)_
-    
+  
 
 ### 💀 Dead or Missing (The Ones We Actually Care About)
 
