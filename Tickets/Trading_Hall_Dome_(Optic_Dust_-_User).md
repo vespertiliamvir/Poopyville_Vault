@@ -18,74 +18,76 @@ WARNING!! NEW INFO!! we have to make sure ONLY ONE VILLAGER ZOMBIE AT A TIME!!! 
 we have 22 book spots
 ---
 
-## Gemini said
+### 📚 In the Library Already (Locked & Safe)
 
-**📚 In Library (✔️)**
-
-- **Villager 1:** Bane of Arthropods V (**26**) + Fortune III (**46**)
+- **Aqua Affinity I** (✔️ 6/1)
     
-- **Villager 2:** Channeling I (**45**) + Power V (**11**)
+- **Bane of Arthropods V** (✔️ paired with Fortune III)
     
-- **Villager 3:** Density V (**21**/1) + Flame (**10**)
+- **Channeling I** (✔️ paired with Power V) - one under casino for only 10 emeralds
     
-- **Villager 4:** Frost Walker I + Lunge III
+- **Density V** (✔️ 21/1) and flame for 10
     
-- **Villager 5:** Looting III (**15**) _(Moving from Casino)_
+- **Feather Falling IV** (✔️ 55/30)
     
-- **Villager 6:** Mending I (**12**) + Mending I (**12**)
+- **Flame** (✔️ paired with Density V)
     
-- **Villager 7:** Protection IV (**~22**) + Flame (**10**)
+- **Fortune III** (✔️ paired with Bane of Arthropods V)26, 46
     
-- **Villager 8:** Riptide III (**33**/28) + Thorns (**40**/35) + Mending I (**10**/5)
+- **Frost Walker I** (✔️ paired with Lunge III)
     
-- **Villager 9:** Silk Touch I (**8**) + Unbreaking II (**18**)
+- **Impaling V** (✔️)
     
-- **Villager 10:** Unbreaking III (**30**/5) + Smite II
+- **Looting III** (✔️ paired with Silk Touch I) 27, 13
     
-- **Villager 11:** Efficiency V (**23**) + Flame (**19**) _(Moving now)_
+- **Lunge III** (✔️ paired with Frost Walker I)
     
-- **Villager 12:** Aqua Affinity I (**6**/1)
+- **Mending I** (✔️ standalone DOUBLE both for 12 emeralds & paired with Riptide/Thorns)
     
-- **Villager 13:** Feather Falling IV (**55**/30)
+- **Power V** (✔️ paired with Channeling I) 45, 11
     
-- **Villager 14:** Impaling V
+- **Protection IV** (✔️ ~22 emeralds) AND flame for 10
     
-- **Villager 15:** Respiration III (**23**)
+- **Respiration III** (✔️) 23
     
-- **Villager 16:** Sharpness V (**44**)
+- **Riptide III** (✔️ paired with Thorns/Mending)33/28,40/35,10/5
     
-
-**Owned (Can put in library)**
-
-- Fire Aspect II
+- **Sharpness V** (✔️ ) 44
     
-- Luck of the Sea III (**10**) _(Casino)_
+- **Silk Touch I** (✔️ standalone for 8 with unbreaking2 for 18 & paired with Looting III)
     
-- Sharpness V (**34**) + Lure III (**36**) _(Casino)_
+- **Thorns** (✔️ paired with Riptide/Mending)
     
-- Lure III (**17**) + Mending I (**16**)
-    
-- Channeling I (**10**) _(Casino)_
-    
-- Lure III (**15**) _(Casino)_
+- **Unbreaking III** (✔️ 30/5) ...and smite2
     
 
-**Missing or Deceased (💀)**
+### 🧟 Owned, but Not in the Library Yet (In Notepad, No Checkmark)
 
-- Infinity I
+- **Depth Strider III** - might have died actually?
     
-- Loyalty III
+- **Efficiency V**
     
-- Depth Strider III _(Dead)_
+- **Fire Aspect II**
+  
+
+### 💀 Dead or Missing (The Ones We Actually Care About)
+
+- **Infinity I** _(Marked missing)_
+    
+- **Loyalty III** _(Marked missing)_
     
 
-**Maybes**
+### 🤷 Ones we might not care about, but I think we're missing (The PvP & Fishing Maybes)
 
-- Multishot I
+- **Luck of the Sea III** _(confirmed owned under casino
     
-- Piercing IV
+- **Lure III** _confirmed owned on a sharpness V guy not in the library currently.. maybe i should replace the hsarpness guy... also a mending guy has oit
     
-- Quick Charge III
+- **Multishot I** _(Low key for PvP)_
+    
+- **Piercing IV** _(You were unsure on this one)_
+    
+- **Quick Charge III** _(Low key for PvP)_
 
 
 so far the crossed out ones are deisnated in zones where the zombie architecture works.. the rest we w ill need to make more room for i think by raising the second floor higher
