@@ -79,9 +79,9 @@ we have 22 book spots
 
 ### 🤷 Ones we might not care about, but I think we're missing (The PvP & Fishing Maybes)
 
-- **Luck of the Sea III** _(You thought you might already have this or Luck II lying around)_
+- **Luck of the Sea III** _(confirmed owned under casino
     
-- **Lure III** _(You thought you might already have this one too)_
+- **Lure III** _confirmed owned on a sharpness V guy not in the library currently.. maybe i should replace the hsarpness guy... also a mending guy has oit
     
 - **Multishot I** _(Low key for PvP)_
     
