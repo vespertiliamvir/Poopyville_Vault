@@ -12,7 +12,7 @@ tags: [city, build, villagers, optic-dust]
 Finish the massive villager trading hall dome behind the iPhone.
 
 
-WARNING!! NEW INFO!! we have to make sure ONLY ONE VILLAGER ZOMBIE AT A TIME!!! fuckkk the original redstone didnt account for htis!! fuck
+WARNING!! NEW INFO!! we have to make sure ONLY ONE VILLAGER ZOMBIE AT A TIME!!! fuckkk the original redstone didnt account for htis!! fuck~I ahem..~ I just realized that ACTUALLY we can just break their lecturns after locking them in place then cure them and re link them 1 at a time
 
 
 we have 22 book spots
