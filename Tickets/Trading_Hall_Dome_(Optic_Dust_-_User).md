@@ -24,7 +24,7 @@ we have 22 book spots
     
 - **Bane of Arthropods V** (✔️ paired with Fortune III)
     
-- **Channeling I** (✔️ paired with Power V)
+- **Channeling I** (✔️ paired with Power V) - one under casino for only 10 emeralds
     
 - **Density V** (✔️ 21/1)
     
@@ -63,7 +63,7 @@ we have 22 book spots
 
 ### 🧟 Owned, but Not in the Library Yet (In Notepad, No Checkmark)
 
-- **Depth Strider III**
+- **Depth Strider III** - might have died actually?
     
 - **Efficiency V**
     
