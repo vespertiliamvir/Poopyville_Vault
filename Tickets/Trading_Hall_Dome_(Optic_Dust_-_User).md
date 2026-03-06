@@ -18,45 +18,78 @@ WARNING!! NEW INFO!! we have to make sure ONLY ONE VILLAGER ZOMBIE AT A TIME!!! 
 we have 22 book spots
 ---
 
-- Mending I  ✔️
+### 📚 In the Library Already (Locked & Safe)
+
+- **Aqua Affinity I** (✔️ 6/1)
     
-- Unbreaking III ✔️ 30/5
+- **Bane of Arthropods V** (✔️ paired with Fortune III)
     
-- Efficiency V  
+- **Channeling I** (✔️ paired with Power V)
     
-- Fortune III ✔️ AND bane of arthro V ✔️
+- **Density V** (✔️ 21/1)
     
-- Silk Touch I ✔️
+- **Feather Falling IV** (✔️ 55/30)
     
-- Protection IV ~✔️ 22 emeralds
+- **Flame** (✔️ paired with Density V)
     
-- Feather Falling IV ✔️ 55/30
+- **Fortune III** (✔️ paired with Bane of Arthropods V)
     
-- Respiration III ✔️
+- **Frost Walker I** (✔️ paired with Lunge III)
     
-- Aqua Affinity I ✔️ 6/1
+- **Impaling V** (✔️)
     
-- Depth Strider III 
+- **Looting III** (✔️ paired with Silk Touch I)
     
-- Sharpness V ✔️ 44
+- **Lunge III** (✔️ paired with Frost Walker I)
     
-- Looting III ✔️ ADND SILKTOUCH✔️
+- **Mending I** (✔️ standalone & paired with Riptide/Thorns)
     
-- Fire Aspect II 
+- **Power V** (✔️ paired with Channeling I)
     
-- Density V ✔️ 21/1 AND FLAME ✔️
+- **Protection IV** (✔️ ~22 emeralds)
     
-- Power V
+- **Respiration III** (✔️)
     
-- Infinity I <--- villager missing
-- Impaling V  ✔️
+- **Riptide III** (✔️ paired with Thorns/Mending)
     
-- Channeling I ✔️ AND POWER V ✔️
+- **Sharpness V** (✔️ 44)
     
-- Riptide III AND THORNS and mending ✔️✔️✔️
+- **Silk Touch I** (✔️ standalone & paired with Looting III)
     
-- Loyalty III < -- villager missing
-- Lunge III ✔️ AND frostwalker I
+- **Thorns** (✔️ paired with Riptide/Mending)
+    
+- **Unbreaking III** (✔️ 30/5)
+    
+
+### 🧟 Owned, but Not in the Library Yet (In Notepad, No Checkmark)
+
+- **Depth Strider III**
+    
+- **Efficiency V**
+    
+- **Fire Aspect II**
+    
+- **Power V** _(You have a standalone one listed here, though you already have one safely paired with Channeling in the library!)_
+    
+
+### 💀 Dead or Missing (The Ones We Actually Care About)
+
+- **Infinity I** _(Marked missing)_
+    
+- **Loyalty III** _(Marked missing)_
+    
+
+### 🤷 Ones we might not care about, but I think we're missing (The PvP & Fishing Maybes)
+
+- **Luck of the Sea III** _(You thought you might already have this or Luck II lying around)_
+    
+- **Lure III** _(You thought you might already have this one too)_
+    
+- **Multishot I** _(Low key for PvP)_
+    
+- **Piercing IV** _(You were unsure on this one)_
+    
+- **Quick Charge III** _(Low key for PvP)_
 
 
 so far the crossed out ones are deisnated in zones where the zombie architecture works.. the rest we w ill need to make more room for i think by raising the second floor higher
