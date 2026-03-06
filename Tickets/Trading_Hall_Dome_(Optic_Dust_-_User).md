@@ -12,6 +12,9 @@ tags: [city, build, villagers, optic-dust]
 Finish the massive villager trading hall dome behind the iPhone.
 
 
+WARNING!! NEW INFO!! we have to make sure ONLY ONE VILLAGER ZOMBIE AT A TIME!!! fuckkk the original redstone didnt account for htis!! fuck
+
+
 we have 22 book spots
 ---
 
