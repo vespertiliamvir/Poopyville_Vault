@@ -18,74 +18,64 @@ WARNING!! NEW INFO!! we have to make sure ONLY ONE VILLAGER ZOMBIE AT A TIME!!! 
 we have 22 book spots
 ---
 
-## Gemini said
+## 📊 Trading Hall Library Layout
+**Total Villagers:** 16 Active | 4 Missing/Dead | 20 Total Slots Mapped
 
-**📚 In Library (✔️)**
+### 🛡️ DOWNSTAIRS: Armor & Universals (8 Active, 1 Dead)
+*No expansion needed. Fits the 11-slot layout perfectly.*
 
-- **Villager 1:** Bane of Arthropods V (**26**) + Fortune III (**46**)
-    
-- **Villager 2:** Channeling I (**45**) + Power V (**11**)
-    
-- **Villager 3:** Density V (**21**/1) + Flame (**10**)
-    
-- **Villager 4:** Frost Walker I + Lunge III
-    
-- **Villager 5:** Looting III (**15**) _(Moving from Casino)_
-    
-- **Villager 6:** Mending I (**12**) + Mending I (**12**)
-    
-- **Villager 7:** Protection IV (**~22**) + Flame (**10**)
-    
-- **Villager 8:** Riptide III (**33**/28) + Thorns (**40**/35) + Mending I (**10**/5)
-    
-- **Villager 9:** Silk Touch I (**8**) + Unbreaking II (**18**)
-    
-- **Villager 10:** Unbreaking III (**30**/5) + Smite II
-    
-- **Villager 11:** Efficiency V (**23**) + Flame (**19**) _(Moving now)_
-    
-- **Villager 12:** Aqua Affinity I (**6**/1)
-    
-- **Villager 13:** Feather Falling IV (**55**/30)
-    
-- **Villager 14:** Impaling V
-    
-- **Villager 15:** Respiration III (**23**)
-    
-- **Villager 16:** Sharpness V (**44**)
-    
+**🛡️ Universal Core Armor (Front Left Wall - 4 Slots)**
+- ✔️ **Villager 1:** Mending I (**12**) + Mending I (**12**)
+- ✔️ **Villager 2:** Unbreaking III (**30**/5) + Smite II
+- ✔️ **Villager 3:** Protection IV (**~22**) + Flame (**10**)
+- [EMPTY] *(Room for PvP specialized armor later)*
 
-**Owned (Can put in library)**
+**🪖 Helmet Section (Front Right Wall - 4 Slots)**
+- ✔️ **Villager 4:** Respiration III (**23**)
+- ✔️ **Villager 5:** Aqua Affinity I (**6**/1)
+- [EMPTY]
+- [EMPTY]
 
-- Fire Aspect II
-    
-- Luck of the Sea III (**10**) _(Casino)_
-    
-- Sharpness V (**34**) + Lure III (**36**) _(Casino)_
-    
-- Lure III (**17**) + Mending I (**16**)
-    
-- Channeling I (**10**) _(Casino)_
-    
-- Lure III (**15**) _(Casino)_
-    
+**🥾 Boot Section (Back Left & Middle Wall - 3 Slots)**
+- ✔️ **Villager 6:** Feather Falling IV (**55**/30)
+- ✔️ **Villager 7:** Frost Walker I + Lunge III 
+- 💀 **Villager 8:** [EMPTY] Reserved for **Depth Strider III** *(Dead - Need to replace)*
 
-**Missing or Deceased (💀)**
+---
 
-- Infinity I
-    
-- Loyalty III
-    
-- Depth Strider III _(Dead)_
-    
+### ⛏️ UPSTAIRS: Tools & Weapons (8 Active, 3 Dead/Missing)
+*Swords are locked to the Front Right. Pickaxes are grouped on the Front Left.*
 
-**Maybes**
+**⛏️ Pickaxe & Tools Section (Front Left Wall - 5 Slots)**
+- ✔️ **Villager 9:** Efficiency V (**23**) + Flame (**19**)
+- ✔️ **Villager 10:** Bane of Arthropods V (**26**) + Fortune III (**46**) 
+- ✔️ **Villager 11:** Silk Touch I (**8**) + Unbreaking II (**18**)
+- [EMPTY]
+- [EMPTY]
 
-- Multishot I
-    
-- Piercing IV
-    
-- Quick Charge III
+**⚔️ Swords & Mace Section (Front Right Wall - 4 Slots max)**
+*(This wall is completely full)*
+- ✔️ **Villager 12:** Sharpness V (**34**) + Lure III (**36**) *(Casino replacement)*
+- ✔️ **Villager 13:** Looting III (**15**) *(Casino replacement)*
+- ✔️ **Villager 14:** Density V (**21**/1) + Flame (**10**) *(Mace)*
+- 💀 **Villager 15:** [EMPTY] Reserved for **Fire Aspect II** *(Dead - Need to replace)*
+
+**🏹 Bow Section (Back Left Wall - 1 Slot max)**
+- ✔️ **Villager 16:** Power V (**11**) + Channeling I (**45**)
+
+**🔱 Trident & Bow Overflow Section (Back Right Wall - 4 Slots)**
+- 💀 **Villager 17:** [EMPTY] Reserved for **Infinity I** *(Missing - Bow)*
+- ✔️ **Villager 18:** Riptide III (**33**/28) + Thorns (**40**/35) + Mending I (**10**/5)
+- ✔️ **Villager 19:** Impaling V
+- 💀 **Villager 20:** [EMPTY] Reserved for **Loyalty III** *(Missing)*
+
+---
+
+### 🗑️ THE BANISHED / ARCHIVE
+*Obsolete villagers removed from the main Library to save space/emeralds. Move to AoT City.*
+- **Old Sword:** Sharpness V (**44**) *(Replaced by 34 guy)*
+- **Old Tools:** Looting III (**27**) + Silk Touch I (**13**) *(Replaced by 15 Looting / 8 Silk Touch guys)*
+- **Under Casino Spares:** Luck of the Sea III (**10**), Channeling I (**10**), Lure III (**15**), Lure III (**17**) + Mending I (**16**).
 
 
 so far the crossed out ones are deisnated in zones where the zombie architecture works.. the rest we w ill need to make more room for i think by raising the second floor higher
