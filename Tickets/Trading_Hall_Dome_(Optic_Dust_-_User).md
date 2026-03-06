@@ -52,7 +52,7 @@ we have 22 book spots
     
 - Riptide III AND THORNS and mending ✔️✔️✔️
     
-- Loyalty III 
+- Loyalty III < -- villager missing
 - Lunge III ✔️ AND frostwalker I
 
 
