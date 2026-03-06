@@ -37,7 +37,7 @@ we have 22 book spots
     
 - Sharpness V ✔️ 44
     
-- Looting III 
+- Looting III ✔️ ADND SILKTOUCH✔️
     
 - Fire Aspect II 
     
@@ -48,7 +48,7 @@ we have 22 book spots
 - Infinity I
 - Impaling V  ✔️
     
-- Channeling I 
+- Channeling I ✔️ AND POWER V ✔️
     
 - Riptide III AND THORNS and mending ✔️✔️✔️
     
