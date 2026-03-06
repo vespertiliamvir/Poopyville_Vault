@@ -26,39 +26,39 @@ we have 22 book spots
     
 - **Channeling I** (✔️ paired with Power V) - one under casino for only 10 emeralds
     
-- **Density V** (✔️ 21/1)
+- **Density V** (✔️ 21/1) and flame for 10
     
 - **Feather Falling IV** (✔️ 55/30)
     
 - **Flame** (✔️ paired with Density V)
     
-- **Fortune III** (✔️ paired with Bane of Arthropods V)
+- **Fortune III** (✔️ paired with Bane of Arthropods V)26, 46
     
 - **Frost Walker I** (✔️ paired with Lunge III)
     
 - **Impaling V** (✔️)
     
-- **Looting III** (✔️ paired with Silk Touch I)
+- **Looting III** (✔️ paired with Silk Touch I) 27, 13
     
 - **Lunge III** (✔️ paired with Frost Walker I)
     
-- **Mending I** (✔️ standalone & paired with Riptide/Thorns)
+- **Mending I** (✔️ standalone DOUBLE both for 12 emeralds & paired with Riptide/Thorns)
     
-- **Power V** (✔️ paired with Channeling I)
+- **Power V** (✔️ paired with Channeling I) 45, 11
     
-- **Protection IV** (✔️ ~22 emeralds)
+- **Protection IV** (✔️ ~22 emeralds) AND flame for 10
     
-- **Respiration III** (✔️)
+- **Respiration III** (✔️) 23
     
-- **Riptide III** (✔️ paired with Thorns/Mending)
+- **Riptide III** (✔️ paired with Thorns/Mending)33/28,40/35,10/5
     
-- **Sharpness V** (✔️ 44)
+- **Sharpness V** (✔️ ) 44
     
-- **Silk Touch I** (✔️ standalone & paired with Looting III)
+- **Silk Touch I** (✔️ standalone for 8 with unbreaking2 for 18 & paired with Looting III)
     
 - **Thorns** (✔️ paired with Riptide/Mending)
     
-- **Unbreaking III** (✔️ 30/5)
+- **Unbreaking III** (✔️ 30/5) ...and smite2
     
 
 ### 🧟 Owned, but Not in the Library Yet (In Notepad, No Checkmark)
