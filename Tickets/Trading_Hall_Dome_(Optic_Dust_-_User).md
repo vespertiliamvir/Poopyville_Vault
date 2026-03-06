@@ -15,46 +15,45 @@ Finish the massive villager trading hall dome behind the iPhone.
 we have 22 book spots
 ---
 
-- Mending I ✔️ ✔️
+- Mending I  ✔️
     
-- Unbreaking III ✔️
+- Unbreaking III ✔️ 30/5
     
-- Efficiency V  ✔️
+- Efficiency V  
     
-- Fortune III ✔️
+- Fortune III ✔️ AND bane of arthro V ✔️
     
 - Silk Touch I ✔️
     
-- Protection IV ~✔️~
+- Protection IV ~✔️ 22 emeralds
     
-- Feather Falling IV ✔️
+- Feather Falling IV ✔️ 55/30
     
-- Respiration III ~✔️~
+- Respiration III ✔️
     
-- Aqua Affinity I ~✔️~
+- Aqua Affinity I ✔️ 6/1
     
-- Depth Strider III ✔️
+- Depth Strider III 
     
-- Sharpness V✔️
+- Sharpness V ✔️ 44
     
-- Looting III ✔️
+- Looting III 
     
-- Fire Aspect II ✔️
+- Fire Aspect II 
     
-- Density V ✔️
+- Density V ✔️ 21/1 AND FLAME ✔️
     
-- Power V ✔️
+- Power V
     
-- Infinity I ✔️
+- Infinity I
+- Impaling V  ✔️
     
-- Impaling V ✔️
+- Channeling I 
     
-- Channeling I ✔️
+- Riptide III AND THORNS and mending ✔️✔️✔️
     
-- Riptide III ✔️
-    
-- Loyalty III ✔️
-- Lunge III ✔️
+- Loyalty III 
+- Lunge III ✔️ AND frostwalker I
 
 
 so far the crossed out ones are deisnated in zones where the zombie architecture works.. the rest we w ill need to make more room for i think by raising the second floor higher
