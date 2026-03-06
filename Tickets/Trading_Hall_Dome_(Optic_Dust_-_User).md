@@ -45,7 +45,7 @@ we have 22 book spots
     
 - Power V
     
-- Infinity I
+- Infinity I <--- villager missing
 - Impaling V  ✔️
     
 - Channeling I ✔️ AND POWER V ✔️
