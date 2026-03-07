@@ -50,7 +50,7 @@ we have 22 book spots
 
 **⛏️ Pickaxes & ⚔️ Core Swords (Front Left Wall - 5 Slots)**
 - ✔️ **Villager 9 (Pickaxe):** Efficiency V (**23**) + Flame (**19**)
-- ✔️ **Villager 10 (Pickaxe):** Fortune III (**29**) + Thorns III (**36**) *(Casino replacement)*
+- ✔️ ~~**Villager 10 (Pickaxe):** Fortune III (**29**) + Thorns III (**36**) *(Casino replacement)~~* SWITCHED to fortune 3 for 26, with bane of arthropods V for 46 (and impaling Iv for 18)
 - ✔️ **Villager 11 (Pickaxe):** Silk Touch I (**8**) + Unbreaking II (**18**)
 - ✔️ **Villager 12 (Sword):** Sharpness V (**34**) + Lure III (**36**) *(Casino replacement)*
 - ✔️ **Villager 13 (Sword):** Looting III (**15**) *(Casino replacement)*
