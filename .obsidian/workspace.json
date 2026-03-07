@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Dashboard.md",
+                "file": "Tickets/Hoglin Farm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_Dashboard"
+              "title": "Hoglin Farm"
             }
           }
         ],
@@ -213,8 +213,10 @@
   },
   "active": "72b25778c5941846",
   "lastOpenFiles": [
-    "Tickets/Autobrewing_-_Coconut_Stations.md",
+    "Tickets/Poker_Redstone_-_Shuffler_&_Filtration_System.md",
+    "Tickets/Hoglin Farm.md",
     "00_Dashboard.md",
+    "Tickets/Autobrewing_-_Coconut_Stations.md",
     "Tickets/Trading_Hall_Dome_(Optic_Dust_-_User).md",
     "vault/Tickets/Trading_Hall_Dome_(Optic_Dust_-_User).md",
     "vault/Tickets/Spawn_-_Starter_Shulker_Boxes.md",
@@ -238,8 +240,6 @@
     "vault/Tickets/Face_Cards_-_Jacks_(Contractors).md",
     "vault/Tickets/Epic",
     "vault/Tickets/Dropper_Game_-_Core_Mechanics.md",
-    "vault/Tickets/Dropper_Game_-_7-Segment_Display_&_Payment.md",
-    "vault/Tickets/City_-_Tinderglass_Dome_Centerpiece.md",
     "vault/Tickets",
     "vault",
     "generators/ticket_maker.py",
