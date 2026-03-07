@@ -35,7 +35,8 @@
               "title": "00_Dashboard"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,8 +211,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c7ac561544bf03d",
+  "active": "72b25778c5941846",
   "lastOpenFiles": [
+    "Tickets/Autobrewing_-_Coconut_Stations.md",
     "00_Dashboard.md",
     "Tickets/Trading_Hall_Dome_(Optic_Dust_-_User).md",
     "vault/Tickets/Trading_Hall_Dome_(Optic_Dust_-_User).md",
@@ -238,7 +240,6 @@
     "vault/Tickets/Dropper_Game_-_Core_Mechanics.md",
     "vault/Tickets/Dropper_Game_-_7-Segment_Display_&_Payment.md",
     "vault/Tickets/City_-_Tinderglass_Dome_Centerpiece.md",
-    "vault/Tickets/City_-_Strip_Club.md",
     "vault/Tickets",
     "vault",
     "generators/ticket_maker.py",
