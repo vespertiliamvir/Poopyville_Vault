@@ -97,7 +97,7 @@ We have 22 book spots.
 ---
 
 ### 📖 Lore & Atmosphere
-- **Theme:** A segregated, oppressive society where Iron Golems are treated as second-class citizens to Villagers (Jim Crow style).
+- **Theme:** A segregated, oppressive society where Iron Golems are treated as second-class citizens to Villagers
 - **Podiums:** - A grand, high podium on the left for the Villager King (and Wei).
   - A smaller, lower podium on the right for the Iron Golem "politician".
 
