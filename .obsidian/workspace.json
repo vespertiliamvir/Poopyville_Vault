@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tickets/Hoglin Farm.md",
+                "file": "Tickets/mobhead ranch renovations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hoglin Farm"
+              "title": "mobhead ranch renovations"
             }
           }
         ],
@@ -213,8 +213,10 @@
   },
   "active": "72b25778c5941846",
   "lastOpenFiles": [
-    "Tickets/Poker_Redstone_-_Shuffler_&_Filtration_System.md",
+    "Tickets/Wais vacation huose.md",
+    "Tickets/mobhead ranch renovations.md",
     "Tickets/Hoglin Farm.md",
+    "Tickets/Poker_Redstone_-_Shuffler_&_Filtration_System.md",
     "00_Dashboard.md",
     "Tickets/Autobrewing_-_Coconut_Stations.md",
     "Tickets/Trading_Hall_Dome_(Optic_Dust_-_User).md",
@@ -237,9 +239,7 @@
     "vault/Tickets/iPhone_-_Raise_up_&_Split_Displays.md",
     "vault/Tickets/iPhone_-_Finalize_Aesthetics.md",
     "vault/Tickets/Face_Cards_-_Queens_(Contractors).md",
-    "vault/Tickets/Face_Cards_-_Jacks_(Contractors).md",
     "vault/Tickets/Epic",
-    "vault/Tickets/Dropper_Game_-_Core_Mechanics.md",
     "vault/Tickets",
     "vault",
     "generators/ticket_maker.py",
