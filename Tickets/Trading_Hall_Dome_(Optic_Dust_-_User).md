@@ -44,7 +44,7 @@ We have 22 book spots.
 **🥾 Boots & 🪖 Helmets Section (Front Left Wall - 4 Slots)**
 *Left side is Boots, Right side is Helmets*
 - ✔️ **Villager 1 (Boots):** Feather Falling IV (**55**/30)
-- 💀 **Villager 2 (Boots):** [EMPTY] Reserved for **Depth Strider III** *(Dead - Need to replace)*
+- 💀 **Villager 2 (Boots):** [EMPTY] Reserved for **Depth Strider III** *(Dead - Need to replace)* ready to load
 - ✔️ **Villager 3 (Helmet):** Respiration III (**23**)
 - ✔️ **Villager 4 (Helmet):** Aqua Affinity I (**6**/1)
 
@@ -72,18 +72,18 @@ We have 22 book spots.
 - ✔️ **Villager 13 (Sword):** Looting III (**15**) *(Casino replacement)*
 
 **🔥 Fire, 🔨 Mace, & 🔱 Spear/Trident Section (Front Right Wall - 4 Slots)**
-- 💀 **Villager 14 (Sword/Fire):** [EMPTY] Reserved for **Fire Aspect II** *(Dead - Need to replace)*
+- 💀 **Villager 14 (Sword/Fire):** [EMPTY] Reserved for **Fire Aspect II** *(Dead - Need to replace)* ready to load
 - ✔️ **Villager 15 (Mace):** Density V (**21**/1) + Flame (**10**) 
 - ✔️ **Villager 16 (Mace/Boots):** Lunge III + Frost Walker I 
 - ✔️ **Villager 17 (Trident):** Impaling V
 
 **🏹 Bow Section (Back Middle Wall - 2 Slots)**
 - ✔️ **Villager 18:** Power V (**11**) + Channeling I (**45**)
-- 💀 **Villager 19:** [EMPTY] Reserved for **Infinity I** *(Missing - Bow)*
+- 💀 **Villager 19:** [EMPTY] Reserved for **Infinity I** *(Missing - Bow)* ready to load
 
 **🔱 Trident Overflow Section (Back Right Wall - 2 Slots)**
 - ✔️ **Villager 20:** Riptide III (**33**/28) + Thorns (**40**/35) + Mending I (**10**/5)
-- 💀 **Villager 21:** [EMPTY] Reserved for **Loyalty III** *(Missing - Trident)*
+- 💀 **Villager 21:** [EMPTY] Reserved for **Loyalty III** *(Missing - Trident)* ready to load
 
 ---
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tickets/Autobrewing_-_Coconut_Stations.md",
+                "file": "Tickets/Trading_Hall_Dome_(Optic_Dust_-_User).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autobrewing_-_Coconut_Stations"
+              "title": "Trading_Hall_Dome_(Optic_Dust_-_User)"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "mobhead ranch renovations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,14 +210,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72b25778c5941846",
+  "active": "3c7ac561544bf03d",
   "lastOpenFiles": [
-    "Tickets/Wais vacation huose.md",
+    "Tickets/Autobrewing_-_Coconut_Stations.md",
     "Tickets/mobhead ranch renovations.md",
+    "Tickets/Wais vacation huose.md",
     "Tickets/Hoglin Farm.md",
     "Tickets/Poker_Redstone_-_Shuffler_&_Filtration_System.md",
     "00_Dashboard.md",
-    "Tickets/Autobrewing_-_Coconut_Stations.md",
     "Tickets/Trading_Hall_Dome_(Optic_Dust_-_User).md",
     "vault/Tickets/Trading_Hall_Dome_(Optic_Dust_-_User).md",
     "vault/Tickets/Spawn_-_Starter_Shulker_Boxes.md",
