@@ -2,7 +2,7 @@
 assignee: David
 start: 2026-07-17
 due: 2026-07-24
-status: Todo
+status: Done
 tags: [casino, plinko, redstone, 5-points, priority-3]
 ---
 
